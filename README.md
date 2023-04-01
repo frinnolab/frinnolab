@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frank Leons Malisawa "@frinnolab"
-- 🧑🏽‍💻 C#, Js, Ts, Angular
+- 🧑🏽‍💻 C#, Js, Ts, Py
 - 📫 dev.frinno@gmail.com
 - 💼 https://www.linkedin.com/in/frank-leons-malisawa-94511716b/
 - 📺 Twitch: https://www.twitch.tv/frinnolabio
