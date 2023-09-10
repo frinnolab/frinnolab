@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Frank Leons Malisawa "@frinnolab"
-- 🧑🏽‍💻 C#, Js, Ts, Py
+- 🧑🏽‍💻 C#, Js, Ts
 - 📫 dev.frinno@gmail.com
+- 💼 https://https://www.frank-leons.online/
 - 💼 https://www.linkedin.com/in/frank-leons-malisawa-94511716b/
-- 📺 Twitch: https://www.twitch.tv/frinnolabio
+- 📺 X: https://twitter.com/frinno_io
+- 📺 YT: https://youtube.com/@frinno_io
+- 📺 Twitch: https://www.twitch.tv/frinno_io
 
 <!---
 frinnolab/frinnolab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
