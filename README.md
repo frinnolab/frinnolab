@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Frank Leons Malisawa "@frinnolab"
+- 👋 Hi, I’m Frank Leons Malisawa - 🇹🇿
 - 🧑🏽‍💻 C#, Js, Ts
 - 📫 dev.frinno@gmail.com
 - 💼 https://www.frank-leons.online/
