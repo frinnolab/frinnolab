@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frank Leons Malisawa - 🇹🇿
-- 🧑🏽‍💻 ASP.NET (C#), React/ Angular (Js, Ts), Laravel (PHP), Flutter (Dart)
+- 🧑🏽‍💻 ASP.NET (C#), React/ Angular (Js, Ts), Laravel (PHP), Python (Fast API), Flutter (Dart)
 - 📫 dev.frinno@gmail.com
 - 💼 https://www.linkedin.com/in/frank-leons-malisawa
 - 📺 X: https://twitter.com/frinno_io
